@@ -1,0 +1,8 @@
+{
+  "name": "Remix MMS Academy Robotics Portal",
+  "description": "Comprehensive internal management platform for MMS Academy for Science \u0026 Technology (Robotics \u0026 Mechatronics), featuring role-based access for Owners and Coaches, 4-week group scheduling, session substitutions, conflict prevention, attendance tracking, automated coach payroll, and bilingual EN/AR dark/light interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

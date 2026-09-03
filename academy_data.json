@@ -1,0 +1,26 @@
+{
+  "owners": [
+    {
+      "id": "owner-1",
+      "name": "Academy Director (Owner)",
+      "email": "owner@mmsacademy.edu",
+      "createdAt": "2026-08-28T00:00:00.000Z",
+      "isPrimary": true
+    }
+  ],
+  "coaches": [],
+  "students": [],
+  "groups": [],
+  "sessions": [],
+  "attendance": [],
+  "payments": [],
+  "notifications": [],
+  "customTracks": [
+    "Arduino",
+    "WeDo",
+    "Lego Essential",
+    "Lego Prime",
+    "Lego EV3",
+    "SolidWorks"
+  ]
+}
